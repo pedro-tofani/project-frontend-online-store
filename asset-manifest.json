@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/project-frontend-online-store/static/css/main.5f361e03.chunk.css",
-    "main.js": "/project-frontend-online-store/static/js/main.f64fc956.chunk.js",
-    "main.js.map": "/project-frontend-online-store/static/js/main.f64fc956.chunk.js.map",
+    "main.css": "/project-frontend-online-store/static/css/main.35f33061.chunk.css",
+    "main.js": "/project-frontend-online-store/static/js/main.d378471c.chunk.js",
+    "main.js.map": "/project-frontend-online-store/static/js/main.d378471c.chunk.js.map",
     "runtime-main.js": "/project-frontend-online-store/static/js/runtime-main.faa9cb51.js",
     "runtime-main.js.map": "/project-frontend-online-store/static/js/runtime-main.faa9cb51.js.map",
-    "static/js/2.bdae6aa2.chunk.js": "/project-frontend-online-store/static/js/2.bdae6aa2.chunk.js",
-    "static/js/2.bdae6aa2.chunk.js.map": "/project-frontend-online-store/static/js/2.bdae6aa2.chunk.js.map",
+    "static/js/2.d77bbd0f.chunk.js": "/project-frontend-online-store/static/js/2.d77bbd0f.chunk.js",
+    "static/js/2.d77bbd0f.chunk.js.map": "/project-frontend-online-store/static/js/2.d77bbd0f.chunk.js.map",
     "index.html": "/project-frontend-online-store/index.html",
-    "precache-manifest.706e98812e4eba54060549d9c5a66dac.js": "/project-frontend-online-store/precache-manifest.706e98812e4eba54060549d9c5a66dac.js",
+    "precache-manifest.175236a6dadd10c980cdaca12053c4fa.js": "/project-frontend-online-store/precache-manifest.175236a6dadd10c980cdaca12053c4fa.js",
     "service-worker.js": "/project-frontend-online-store/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/project-frontend-online-store/static/css/main.5f361e03.chunk.css.map",
-    "static/media/logo.svg": "/project-frontend-online-store/static/media/logo.5d5d9eef.svg"
+    "static/css/main.35f33061.chunk.css.map": "/project-frontend-online-store/static/css/main.35f33061.chunk.css.map",
+    "static/media/back-arrow.png": "/project-frontend-online-store/static/media/back-arrow.84ae43ba.png",
+    "static/media/cartao-credito.jpeg": "/project-frontend-online-store/static/media/cartao-credito.5e06a009.jpeg",
+    "static/media/codigo-barras.jpeg": "/project-frontend-online-store/static/media/codigo-barras.85043b23.jpeg",
+    "static/media/graystar.png": "/project-frontend-online-store/static/media/graystar.efe3f883.png",
+    "static/media/SearchBar.css": "/project-frontend-online-store/static/media/img_290616.aa9925ad.png",
+    "static/media/AddEmExibDetalhada.css": "/project-frontend-online-store/static/media/plus.ec498b87.png"
   },
   "entrypoints": [
     "static/js/runtime-main.faa9cb51.js",
-    "static/js/2.bdae6aa2.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f64fc956.chunk.js"
+    "static/js/2.d77bbd0f.chunk.js",
+    "static/css/main.35f33061.chunk.css",
+    "static/js/main.d378471c.chunk.js"
   ]
 }
